@@ -1,3 +1,5 @@
+Det kan hende at oppdateringer ikke vises på github på endringene jeg gjorde i koden min fordi jeg trodde jeg lastet ned git fullstendig på pc når jeg faktisk ikke gjorde det, og jeg måtte installere den riktig etter at jeg allerede var ferdig med å lage appen min.
+
 Quiz App - Teknisk Dokumentasjon
 
 Dette er en interaktiv og brukervennlig quiz-applikasjon med flervalgsspørsmål og bilder, bygget med React. Applikasjonen er designet for å være estetisk tiltalende, spesielt med et søtt tema, samtidig som den demonstrerer grunnleggende ferdigheter innen tilstandshåndtering, betinget rendering og bruk av eksterne biblioteker.
@@ -30,7 +32,7 @@ react2/
 │   │   │   ├── quiz.js (Hovedkomponent for quiz-logikken)
 │   │   │   ├── quiz.css (Spesifikk styling for quiz-komponenten)
 │   │   ├── App.js (Rotkomponent for applikasjonen)
-│   │   ├── App.css (Global styling for hele applikasjonen)
+│   │   ├── App.css (styling for hele applikasjonen)
 │   │   ├── index.js (Oppstart av applikasjonen)
 │   │   ├── index.css (Stil for grunnleggende layout)
 │   │   ├── reportWebVitals.js
@@ -77,4 +79,4 @@ Forbedret UI/UX med animasjoner og mer avansert design
 
 Backend-integrasjon for å lagre brukerresultater
 
-Denne dokumentasjonen gir en full oversikt over hvordan prosjektet er bygget opp, og hvordan det kan kjøres og videreutvikles.
+-.-- . ...
