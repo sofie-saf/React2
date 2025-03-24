@@ -78,4 +78,4 @@ Forbedret UI/UX med animasjoner og mer avansert design
 Backend-integrasjon for å lagre brukerresultater
 
 Denne dokumentasjonen gir en full oversikt over hvordan prosjektet er bygget opp, og hvordan det kan kjøres og videreutvikles.
-
+ fatviewgfiy
